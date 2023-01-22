@@ -11,3 +11,12 @@
 .toolbar {
   height: 70px;
 }
+
+/* NavBar */
+
+.nav-toolbar {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 224px;
+}
